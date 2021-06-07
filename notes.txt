@@ -1,0 +1,3 @@
+* visage moyen
+* les visage propre (eigen face)
+	pca.components_
